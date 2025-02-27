@@ -10,8 +10,6 @@ Os algoritmos foram implementados usando a biblioteca do scikit-learn no Google 
 - **Otimização**: Testes para encontrar a melhor profundidade da árvore (**max_depth**) e análise do impacto da escolha do critério.
 - **Avaliação**: Comparação das métricas **Precisão**, **Recall** e **F1-score**.
 
-## 📸 Resultados Visuais
-_Aqui serão inseridas as imagens geradas durante a análise._
 
 ## 🛠️ Implementação
 ### Bibliotecas Utilizadas
